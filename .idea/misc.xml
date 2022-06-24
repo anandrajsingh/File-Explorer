@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/bg_bordered.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_about.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_android.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_delete.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_details.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_docs.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_downloads.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_drop_down.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_folder.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_image.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_music.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_pdf.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_play.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_rename.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_sd_card.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/drawable/ic_share.xml" value="0.174" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/file_container.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/fragment_card.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/fragment_categorized.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/fragment_internal.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/option_dialog.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/layout/option_layout.xml" value="0.25" />
+        <entry key="..\:/Github Upload/FileExplorer/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
